@@ -2,7 +2,8 @@
 # DCGAN implementation with Pytorch
 
 
-## first step ![1](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/db5f61c2-8f28-48e8-8068-6e193ae7371e)
+## first step 
+![1](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/db5f61c2-8f28-48e8-8068-6e193ae7371e)
 
 ## second step ![2](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/a4b58e2f-b6d9-4ba0-a65e-677bfac4ee22)
 
