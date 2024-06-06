@@ -2,18 +2,26 @@
 # DCGAN implementation with Pytorch
 
 
-## first step ![1](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/db5f61c2-8f28-48e8-8068-6e193ae7371e)
 
-## second step ![2](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/a4b58e2f-b6d9-4ba0-a65e-677bfac4ee22)
+![1](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/022dec9a-7d8b-48ae-bbf0-00473971f88f)
 
-## second step ![3](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/ba7facf0-51ac-4cdf-90ce-8981f806294a)
 
-## third step ![5](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/e9720f25-4383-4175-a303-707b251f7bc3)
+![2](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/4cc539b7-6359-4ece-8470-b942ed10b5ff)
 
-## fourth step ![6](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/86e7f117-605b-48a6-8cd5-a0c0e1fcbbac)
 
-## fifth step ![7](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/09c89620-393f-4e8b-a544-9c83a7e24bf3)
+![3](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/ffca2c82-23d1-46e9-b3e3-c19805b5367e)
 
-## sixth step ![8](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/93499762-3448-4967-9be0-5d9781902f7d)
 
-## seventh step ![9](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/bb3f3c19-3ba2-459e-8376-c68b43f9b1f4)
+![5](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/74cd38da-a971-470a-bfa5-e8cb7ba469a5)
+
+
+![6](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/77aef742-6c82-4727-8030-20ef301e0866)
+
+
+![7](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/9609c515-b236-4b48-9799-40b5175da436)
+
+
+![8](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/18eea5ca-6358-455c-a606-f9e9fe01c893)
+
+
+![9](https://github.com/fatihylcn/DCGAN-Cifar10/assets/81856342/c7866997-dd63-4950-9be2-d5f10ea907ad)
